@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/expo/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.eroque55.projfinalauladevmobile"
     },
     "web": {
       "bundler": "metro",
