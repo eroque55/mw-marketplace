@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "proj-final-aula-dev-mobile",
-    "slug": "proj-final-aula-dev-mobile",
+    "name": "MW Marketplace",
+    "slug": "mw-marketplace",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/expo/icon.png",
@@ -14,10 +14,10 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/expo/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#420066"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.eroque55.projfinalauladevmobile"
+      "package": "com.eroque55.mwmarketplace"
     },
     "web": {
       "bundler": "metro",
@@ -29,10 +29,10 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/LogoBig.png",
+          "image": "./assets/expo/splash-icon.png",
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#3D0065"
+          "backgroundColor": "#420066"
         }
       ]
     ],
