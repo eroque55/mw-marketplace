@@ -37,7 +37,7 @@ const OnBoarding = () => {
         contentFit="contain"
       />
 
-      <Text className="text-heading font-nunito_bold text-4xl">
+      <Text className="text-white font-nunito_bold text-4xl">
         Marketplace {'\n'}Inteligente para você
       </Text>
 
