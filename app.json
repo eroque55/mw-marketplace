@@ -38,6 +38,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8db42163-6312-45a7-a029-17db8c8e7cf6"
+      }
+    },
+    "owner": "eroque55"
   }
 }
